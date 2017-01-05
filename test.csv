@@ -1,0 +1,5 @@
+session_date,session,applicant_name,email,dob,registration_id,sorting_field,password,exam_center_id,tcs_center_code,Centre Name,Subject Code,Subject Name,PH(Yes/No),Type of PH,Scribe
+4th February 2017,1,J J,jy@gmail.com,1990-05-08,AR17S11001001,11001001,,1001,2837,Dr.B.R.Ambedkar Institute of Technology,AR,Architecture and Planning,No, ,No
+4th February 2017,1,M HIV PRA,shivrao@gmail.com,1993-08-28,ME17S11001002,11001002,,1001,2837,Dr.B.R.Ambedkar Institute of Technology,ME,Mechanical Engineering,No, ,No
+4th February 2017,1,ANUANAND,anupadpb@gmail.com,1994-12-17,ME17S11001003,11001003,,1001,2837,Dr.B.R.Ambedkar Institute of Technology,ME,Mechanical Engineering,No, ,No
+4th February 2017,1,YOGESH,yogehyd@gmail.com,1992-11-15,ME17S11001004,11001004,,1001,2837,Dr.B.R.Ambedkar Institute of Technology,ME,Mechanical Engineering,No, ,No
